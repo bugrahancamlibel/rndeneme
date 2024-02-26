@@ -1,0 +1,17 @@
+{
+  "name": "rn-login-sdk",
+  "version": "0.0.0",
+  "description": "base react native app",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNRnLoginSdkSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "scripts": {
+    "example": "react-native run-android"
+  }
+}
